@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Atualmente trabalho com Front-end
-- 🌱 Estudando React | typescript
+- 🌱 Estudando ReactJs | typescript | React Native | deep learning
 - 📫 email: fagotti.edu567@outlook.com
 
 ##
