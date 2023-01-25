@@ -1,7 +1,7 @@
-### Olá 👋
+### Hello 👋
 
-- 🔭 Atualmente trabalho com Front-end
-- 🌱 Estudando ReactJs | typescript | React Native 
+- 🔭 I currently work with Frontend
+- 🌱 Studying ReactJs | typescript | react native 
 
 ##
 
