@@ -1,7 +1,7 @@
 ### Hello 👋
 
 - 🔭 I currently work with Frontend
-- 🌱 Studying React.Js | typescript | react native 
+- 🌱 Studying React.Js | Next.Js | typescript | react native 
 
 ##
 
