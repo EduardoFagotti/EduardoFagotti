@@ -1,7 +1,8 @@
 ### Hello 👋
 
 - 🔭 I currently work with Frontend
-- 💼 working Next.js | React 
+- 💼 working React Native | React 
+- 🎯 shifting focus to mobile
 - 🌱 Studying React.Js | typescript | react native | Dart | Flutter
 
 ##
