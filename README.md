@@ -2,7 +2,7 @@
 
 - 🔭 I currently work with Frontend
 - 💼 working Next.js | React 
-- 🌱 Studying React.Js | Next.Js | typescript | react native 
+- 🌱 Studying React.Js | typescript | react native | Dart | Flutter
 
 ##
 
