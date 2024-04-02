@@ -25,8 +25,7 @@
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eduardo-fagotti-34876b203" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/eduardo-fagotti-34876b203?trk=profile-badge">Eduardo Fagotti</a></div>
+
               
 
 ##
