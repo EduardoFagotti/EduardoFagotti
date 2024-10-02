@@ -3,7 +3,7 @@
 - 🔭 I currently work with Frontend
 - 💼 working React Native | React 
 - 🎯 shifting focus to mobile
-- 🌱 Studying React.Js | typescript | react native | Dart | Flutter
+- 🌱 Studying React.Js | typescript | react native
 
 ##
 
