@@ -1,9 +1,9 @@
 ### Hello 👋
 
 - 🔭 I currently work with Frontend
-- 💼 working React Native | React 
-- 🎯 shifting focus to mobile
-- 🌱 Studying React.Js | typescript | react native
+- 💼 working Next | React 
+- 🎯 shifting focus to web | mobile
+- 🌱 Studying Next | React.Js | typescript | react native | javaScript
 
 ##
 
