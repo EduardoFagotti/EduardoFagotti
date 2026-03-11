@@ -1,15 +1,8 @@
 ### Hello 👋
 
-- 🔭 I currently work with Frontend
-- 💼 working Next | React 
+- 🔭 I currently work with Full Stack
+- 💼 working Next | React | prisma | typescript
 - 🎯 shifting focus to web | mobile
-- 🌱 Studying Next | React.Js | typescript | react native | javaScript
-
-##
-
-
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
